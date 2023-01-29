@@ -10,7 +10,7 @@ Viết hàm cho biết đường thẳng cắt các hình nào của danh sách.
 Viết ứng dụng cho phép tạo các hình và một đường thẳng, vẽ các hình và đường thẳng, xuất thông báo cho biết đường đi qua bao nhiêu hình, tô màu các hình có đường cắt ngang với màu khác các hình còn lại.
 
 Project được viết bằng ngôn ngữ C++ trên Visual Studio ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white).
-Được cộng tác cùng bạn Đặng Yến Linh đảm nhiệm phần toán học xác định hình cắt cùng đó mình cảm ơn các bạn mình đã hướng dẫn tìm tòi để đạt được thành công này. Được giảng viên hướng dẫn đánh giá cao
+Được cộng tác cùng bạn Đặng Yến Linh đảm nhiệm phần toán học xác định hình cắt cùng đó mình cảm ơn các bạn mìnH đã hướng dẫn tìm tòi để đạt được thành công này. Được giảng viên hướng dẫn đánh giá cao
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
