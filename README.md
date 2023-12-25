@@ -1,17 +1,26 @@
+
+
+<img src="https://static.vecteezy.com/system/resources/previews/010/913/340/non_2x/dash-silhouette-basic-shapes-set-isolated-on-white-background-dash-geometric-shapes-vector.jpg" />
+
+
 # OOP_Project
-Project OOP VNU-HCMUS 2022 
-# 💫About 
+OOP Project VNU-HCMUS 2022
 
-Đây là project cuối kì của môn Lập Trình Hướng Đối Tượng ngành Khoa Học Dữ Liệu khóa 2020. 
-Với đề bài : Cho một danh sách các đối tượng hình học, 
-mỗi đối tượng thuộc một trong các loại: Hình tròn,hình ellipse, hình bán nguyệt, hình đa giác(lồi), hình chữ nhật, hình vuông, hình tam giác.
-Cho một đường thẳng(ax + by = c) trong mặt phẳng.
-Viết hàm cho biết đường thẳng cắt các hình nào của danh sách.
-Viết ứng dụng cho phép tạo các hình và một đường thẳng, vẽ các hình và đường thẳng, xuất thông báo cho biết đường đi qua bao nhiêu hình, tô màu các hình có đường cắt ngang với màu khác các hình còn lại.
+## 💫 About
 
-Project được viết bằng ngôn ngữ C++ trên Visual Studio ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white).
-Được cộng tác cùng bạn Đặng Yến Linh đảm nhiệm phần toán học xác định hình cắt cùng đó mình cảm ơn các bạn mìnH đã hướng dẫn tìm tòi để đạt được thành công này. Được giảng viên hướng dẫn đánh giá cao
+This is the final project for the Object-Oriented Programming course in the Data Science program, class of 2020. The task involves dealing with a list of geometric objects, including circles, ellipses, crescent shapes, convex polygons, rectangles, squares, and triangles. Given a straight line (ax + by = c) in the plane, the function determines which shapes from the list it intersects. The application allows the creation of shapes and a straight line, drawing these elements, indicating how many shapes the line intersects, and coloring the intersected shapes differently.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Technologies Used
 
-Mọi thắc mắc bạn có thể liên hệ với mình qua thông tin ở trang cá nhân đầu.
+- C++ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+- Visual Studio
+
+## Collaborators
+
+I worked collaboratively with Đặng Yến Linh, who handled the mathematical part of determining intersected shapes. I express my gratitude to those who guided and supported us in achieving this success. Special thanks to the highly appreciated instructors.
+
+![Animated GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## Contact Information
+
+For any inquiries or further information, feel free to reach out to me via the contact details on my profile page.
